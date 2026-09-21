@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.tomitaro25.stiri_in_nestire",
+        "sha256_cert_fingerprints": ["BC:CF:87:4F:F8:84:0D:0F:7C:39:9B:D8:7F:87:FB:61:38:74:B7:51:76:AE:D5:80:E3:77:99:41:B1:A6:10:2B"]
+      }
+    }]
